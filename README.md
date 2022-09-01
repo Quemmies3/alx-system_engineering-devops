@@ -1,1 +1,2 @@
-Task 0. Where am I?
+Task 1, Whatss in there? > README.md
+echo Task 1, Whatss in there?
